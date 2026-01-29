@@ -1,0 +1,19 @@
+.increment{
+    background-color: green;
+    padding: 16px 46px 16px 46px
+}
+
+.decrement{
+    background-color: yellow;
+    padding: 16px 46px 16px 46px;
+    color: black;
+}
+
+.reset{
+    padding: 16px 66px 16px 66px;
+    background-color: red;
+}
+
+.count{
+    color: black;
+}
