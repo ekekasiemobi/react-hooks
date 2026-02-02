@@ -17,3 +17,19 @@
 .count{
     color: black;
 }
+
+li{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+.add-btn{
+    background-color: Green;
+}
+
+.del-btn{
+    background-color: red;
+}
